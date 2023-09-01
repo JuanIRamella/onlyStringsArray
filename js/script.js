@@ -41,4 +41,4 @@ document.addEventListener("DOMContentLoaded", (e) => {
 
   showList(onlyStringsArray.sort());
 
-});
+}); 
